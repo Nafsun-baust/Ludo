@@ -147,14 +147,14 @@ RectTransform:
   m_GameObject: {fileID: 53246510}
   m_LocalRotation: {x: 0.46520388, y: -0.10933746, z: 0.26899925, w: 0.8362237}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.4928794, y: 2.4928794, z: 2.4928794}
+  m_LocalScale: {x: 4.0566626, y: 4.0566626, z: 4.0566626}
   m_Children: []
   m_Father: {fileID: 136955511}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 56.809002, y: 7.0740004, z: 39.493}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -214, y: -101}
+  m_AnchoredPosition: {x: -348.24, y: -138.31497}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &53246512
@@ -940,14 +940,14 @@ RectTransform:
   m_GameObject: {fileID: 295561318}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.73684, y: 0.73684, z: 0.73684}
+  m_LocalScale: {x: 1.1990597, y: 1.1990597, z: 1.1990597}
   m_Children: []
   m_Father: {fileID: 136955511}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -91, y: -164}
+  m_AnchoredPosition: {x: -148.09, y: -240.83496}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &295561320
@@ -1013,14 +1013,14 @@ RectTransform:
   m_GameObject: {fileID: 371664399}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.3335886, y: 2.3335886, z: 2.3335886}
+  m_LocalScale: {x: 3.7974489, y: 3.7974489, z: 3.7974489}
   m_Children: []
   m_Father: {fileID: 136955511}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -152, y: 101}
+  m_AnchoredPosition: {x: -247.35, y: 190.39502}
   m_SizeDelta: {x: 141.21, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &371664401
@@ -1301,7 +1301,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 480}
+  m_ReferenceResolution: {x: 1280, y: 720}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1736,7 +1736,7 @@ RectTransform:
   m_GameObject: {fileID: 1288876146}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.6273, y: 1.6273, z: 1.6273}
   m_Children:
   - {fileID: 1459542819}
   - {fileID: 2129041767}
@@ -1746,7 +1746,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.024963379}
+  m_AnchoredPosition: {x: 0, y: 26}
   m_SizeDelta: {x: 0, y: 0.050049}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1288876148
@@ -2109,14 +2109,14 @@ RectTransform:
   m_GameObject: {fileID: 1545251776}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.73684, y: 0.73684, z: 0.73684}
+  m_LocalScale: {x: 1.1990597, y: 1.1990597, z: 1.1990597}
   m_Children: []
   m_Father: {fileID: 136955511}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -29, y: -159}
+  m_AnchoredPosition: {x: -47.192, y: -232.70499}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1545251778
@@ -2309,7 +2309,7 @@ RectTransform:
   m_GameObject: {fileID: 1941943471}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4836, y: 1.4836, z: 1.4836}
   m_Children:
   - {fileID: 1202889522}
   - {fileID: 83491534}
@@ -2322,7 +2322,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 221.5, y: 0}
+  m_AnchoredPosition: {x: 348, y: -1.8723145}
   m_SizeDelta: {x: -443, y: -900}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1941943473
